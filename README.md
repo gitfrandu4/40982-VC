@@ -1,3 +1,4 @@
 # 40982-VC
-# 40982-VC
-# 40982-P2
+
+## T2.- Adquisición, formación y representación de la imagen
+
